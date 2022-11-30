@@ -1,0 +1,8 @@
+fastq2bam
+alignment-qc
+postprocess-alignment-qc
+variant-calling
+vcf-filtering
+annotation
+vcf2xlsx
+anno-pp

@@ -1,0 +1,8 @@
+dist/
+cfsfmba.egg-info/
+build/
+__pycache__/
+.ipynb_checkpoints
+.idea/
+venv/
+.pytest_cache
